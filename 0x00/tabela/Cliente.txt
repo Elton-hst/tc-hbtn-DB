@@ -1,2 +1,0 @@
-id|nome|Email|Telefone
-1|Betty|betty@techcamps.com|12345678
