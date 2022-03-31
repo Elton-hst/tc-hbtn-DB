@@ -1,5 +1,3 @@
-package src;
-
 public class Cliente {
 
     private int id;
@@ -8,13 +6,6 @@ public class Cliente {
     private String cpf;
     private String rg;
 
-    public Cliente(int id, String nome, int idade, String cpf, String rg) {
-        this.id = id;
-        this.nome = nome;
-        this.idade = idade;
-        this.cpf = cpf;
-        this.rg = rg;
-    }
 
     public int getId() {
         return id;

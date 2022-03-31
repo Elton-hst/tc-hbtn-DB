@@ -1,5 +1,3 @@
-package src;
-
 import java.sql.Connection;
 
 public interface ClienteDAO {
